@@ -1,21 +1,21 @@
 const quizData = [
   {
-    question: 'What is the capital of France?',
+    question: '(1/4) What is the capital of France?',
     options: ['Paris', 'London', 'Berlin', 'Madrid'],
     answer: 'Paris',
   },
   {
-    question: 'What is the largest planet in our solar system?',
+    question: '(2/4) What is the largest planet in our solar system?',
     options: ['Mars', 'Saturn', 'Jupiter', 'Neptune'],
     answer: 'Jupiter',
   },
   {
-    question: 'Which country won the FIFA World Cup in 2018?',
+    question: '(3/4) Which country won the FIFA World Cup in 2018?',
     options: ['Brazil', 'Germany', 'France', 'Argentina'],
     answer: 'France',
   },
   {
-    question: 'What is the tallest mountain in the world?',
+    question: '(4/4) What is the tallest mountain in the world?',
     options: ['Mount Everest', 'K2', 'Kangchenjunga', 'Makalu'],
     answer: 'Mount Everest',
   }
